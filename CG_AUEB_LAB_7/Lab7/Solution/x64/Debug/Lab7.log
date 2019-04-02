@@ -1,0 +1,16 @@
+﻿  HelpLib.cpp
+  Main.cpp
+  OBJLoader.cpp
+  OBJMaterial.cpp
+  OGLMesh.cpp
+  Texture.cpp
+  TGA.cpp
+  Renderer.cpp
+  GeometryNode.cpp
+  GroupNode.cpp
+  Node.cpp
+  Root.cpp
+  TransformNode.cpp
+  ShaderGLSL.cpp
+  Generating Code...
+  Lab7.vcxproj -> C:\Work\Projects\C++\opengl_course - Copy (2)\CG_AUEB_LAB_7\Lab7\Solution\..\Bin\Debug\x64\Lab7x64d.exe

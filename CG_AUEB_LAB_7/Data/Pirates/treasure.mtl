@@ -1,0 +1,33 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.9.1158
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl _7___Default
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd chest.tga
+map_kA chest.tga
+
+newmtl _8___Default
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.864 0.864 0.864
+illum 2
+Ns 10
+map_Kd coin.tga
+map_kA coin.tga
+
+newmtl _3___Default
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+Ns 10
+map_Kd treasure_map.tga
+map_kA treasure_map.tga
